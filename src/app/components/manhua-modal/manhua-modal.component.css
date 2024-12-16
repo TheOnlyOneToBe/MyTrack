@@ -1,0 +1,60 @@
+.modal-container {
+    padding: 20;
+    background-color: white;
+    border-radius: 10;
+}
+
+.modal-title {
+    font-size: 24;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20;
+    color: #2c3e50;
+}
+
+.modal-content {
+    padding: 0 10;
+}
+
+.input-group {
+    margin-bottom: 16;
+}
+
+.label {
+    font-size: 14;
+    color: #7f8c8d;
+    margin-bottom: 4;
+}
+
+.input {
+    border-width: 1;
+    border-color: #bdc3c7;
+    border-radius: 4;
+    padding: 8;
+    font-size: 16;
+}
+
+.picker {
+    margin: 8 0;
+}
+
+.button-container {
+    margin-top: 20;
+}
+
+.btn {
+    margin: 5;
+    padding: 12;
+    border-radius: 4;
+    font-size: 16;
+}
+
+.btn-primary {
+    background-color: #3498db;
+    color: white;
+}
+
+.btn-secondary {
+    background-color: #95a5a6;
+    color: white;
+}
